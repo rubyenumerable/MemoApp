@@ -1,0 +1,6 @@
+edu\self\memoapp\bean\MemoEditBean.class
+edu\self\memoapp\entity\Memo_.class
+edu\self\memoapp\ejb\AbstractFacade.class
+edu\self\memoapp\ejb\MemoFacade.class
+edu\self\memoapp\entity\Memo.class
+edu\self\memoapp\bean\MemoBean.class
